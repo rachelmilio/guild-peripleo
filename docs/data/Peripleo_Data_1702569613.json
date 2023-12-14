@@ -13,7 +13,11 @@
 			"types": [
 				{"label": "guildhall", "identifier":"http://id.lincsproject.ca/eml/Hall"}],
 			"descriptions": [
-				{"@id": "https://cwrc.ca/islandora/object/reeed%3A88426fb5-aad3-4908-928a-b6494d17729f", "value": "The Mercers' Hall was the headquarters of the highest ranking livery company, the Worshipful Company of Mercers, from the 1300s to the present day."}]},
+				{"@id": "https://cwrc.ca/islandora/object/reeed%3A88426fb5-aad3-4908-928a-b6494d17729f", "value": "The Mercers' Hall was the headquarters of the highest ranking livery company, the Worshipful Company of Mercers, from the 1300s to the present day."}],
+			"depictions": [
+				{"@id":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MercersArms.svg/300px-MercersArms.svg.png", "title":"Mercers' Crest"}
+			]
+		},
 	{"@id":"https://w3id.org/Livery-info-final%20-%20Livery%20Halls/86f2c68c-92a4-4e2c-8b97-b7f69accc77c","type":"Feature","properties":{"title":"Grocers' Hall","url":"reed:80ceb5b0-c5fb-446a-9eaa-b817ba904141"},"geometry":{"type":"Point","coordinates":[-0.089722,51.514167]}},
 	{"@id":"https://w3id.org/Livery-info-final%20-%20Livery%20Halls/88a86a92-ea66-40d5-9529-9531e5f3863a","type":"Feature","properties":{"title":"Drapers' Hall","url":"reed:93a9bad5-f383-4fa7-b585-10ae9a325494"},"geometry":{"type":"Point","coordinates":[-0.08654,51.51506]}},
 	{"@id":"https://w3id.org/Livery-info-final%20-%20Livery%20Halls/ffcc968f-249a-4dd0-af37-c65a9ea45fcf","type":"Feature","properties":{"title":"Fishmongers' Hall","url":"reed:30b9aaa1-06dd-4d79-8c56-5629609bd5df"},"geometry":{"type":"Point","coordinates":[-0.08764,51.50939]}},{"@id":"https://w3id.org/Livery-info-final%20-%20Livery%20Halls/87494808-1398-441c-bcf9-2d7c32af87a7","type":"Feature","properties":{"title":"Goldsmiths' Hall","url":"reed:9807c56e-aeec-4a4e-a66c-dd56f61b4520"},"geometry":{"type":"Point","coordinates":[-0.0957,51.5158]}},
