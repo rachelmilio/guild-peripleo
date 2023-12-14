@@ -5,7 +5,7 @@
     {
       "name": "Worshipful Company Halls",
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_1702569613.json",
+      "src": "./data/REED places.json",
       "attribution": "REED London"
     }
   ],
