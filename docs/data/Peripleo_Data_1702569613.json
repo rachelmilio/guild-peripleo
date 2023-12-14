@@ -6,7 +6,7 @@
 			"type":"Feature",
 			"properties":{
 				"title":"Mercers' Hall",
-				"url":"reed:22d26c95-b4c4-450b-a70b-07268115ab90"},
+				"url":"https://cwrc.ca/islandora/object/reed%3A22d26c95-b4c4-450b-a70b-07268115ab90"},
 			"geometry":{
 				"type":"Point",
 				"coordinates":[-0.09164,51.51416]},
