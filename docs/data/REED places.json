@@ -82,6 +82,9 @@
                     "@id": "https://www.british-history.ac.uk/sites/default/files/publications/pubid-749/images/fig1.gif",
                     "title": "The tiltyard, Faithorne and Newcourt's Map"
                 }
+            ],
+            "links": [
+                {"@id": "https://cwrc.ca/fr/islandora/object/reed%3A14356614-8c1e-458d-8db1-f9c450e028f0", "title": "Mentioned in REED Record"}
             ]
         },
         {
