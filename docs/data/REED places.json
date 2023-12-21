@@ -84,7 +84,7 @@
                 }
             ],
             "links": [
-                {"@id": "https://cwrc.ca/fr/islandora/object/reed%3A14356614-8c1e-458d-8db1-f9c450e028f0", "title": "Mentioned in REED Record"}
+                {"type": "REED Record", "identifier": "https://cwrc.ca/fr/islandora/object/reed%3A14356614-8c1e-458d-8db1-f9c450e028f0"}
             ]
         },
         {
