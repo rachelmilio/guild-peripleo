@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Worshipful Company Halls",
+      "name": "REED London Places",
       "format": "LINKED_PLACES",
       "src": "./data/REED places.json",
       "attribution": "REED London"
