@@ -7992,9 +7992,16 @@
                 "title": "Aldersgate Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097222,
+                    51.5175
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8004,9 +8011,16 @@
                 "title": "Aldgate Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0777,
+                    51.5132
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8016,9 +8030,16 @@
                 "title": "Bassinghall Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0926,
+                    51.5165
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8037,7 +8058,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8047,9 +8069,16 @@
                 "title": "Bishopsgate Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08145,
+                    51.5163
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8059,9 +8088,16 @@
                 "title": "Bread Street Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0966,
+                    51.5144
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8080,7 +8116,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8090,9 +8127,16 @@
                 "title": "Broad Street Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085,
+                    51.5161
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8102,9 +8146,16 @@
                 "title": "Candlewick Street Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.086829,
+                    51.5114
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8123,7 +8174,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8142,7 +8194,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8152,9 +8205,16 @@
                 "title": "Coleman Street Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0889,
+                    51.517
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8164,9 +8224,16 @@
                 "title": "Cordwainer Street Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09324,
+                    51.5129
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8176,9 +8243,16 @@
                 "title": "Cornhill Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085,
+                    51.5135
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8188,9 +8262,16 @@
                 "title": "Cripplegate Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094,
+                    51.519
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8200,9 +8281,16 @@
                 "title": "Dowgate Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089,
+                    51.511
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8212,9 +8300,16 @@
                 "title": "Farringdon Within Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10343,
+                    51.5144
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8224,9 +8319,16 @@
                 "title": "Farringdon Without Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10911,
+                    51.5163
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8236,9 +8338,16 @@
                 "title": "Langbourn Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085,
+                    51.512
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8257,7 +8366,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8276,7 +8386,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8286,9 +8397,16 @@
                 "title": "Queenhithe Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097,
+                    51.511
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8307,7 +8425,8 @@
                 ]
             },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8317,9 +8436,16 @@
                 "title": "Vintry Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0934,
+                    51.511
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
@@ -8329,226 +8455,497 @@
                 "title": "Walbrook Ward",
                 "country": "Great Britain"
             },
-            "geometry": null,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09,
+                    51.5124
+                ]
+            },
             "types": [
-                {"label": "ward"}
+                {"label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
             ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/cf79a815-f6a9-47ea-9623-3e9b3b5edc0c",
             "type": "Feature",
             "properties": {"title": "Barbers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/e5845c1e-b794-487e-8a6e-3d6bdcf5564a",
             "type": "Feature",
             "properties": {"title": "Bowyers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/be33f7f4-5bc1-44eb-b8f2-94fa3cb8d026",
             "type": "Feature",
             "properties": {"title": "Brewers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/f4318005-17b9-461a-92c0-bcfa7075c69d",
             "type": "Feature",
             "properties": {"title": "Bricklayers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/63c17097-a4a6-46e0-80b2-4294a0e178aa",
             "type": "Feature",
             "properties": {"title": "Butchers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/d3cfe2ea-525c-48c8-b786-8e3dfb0a40b2",
             "type": "Feature",
             "properties": {"title": "Carpenters' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/653341a7-d6d0-475f-a159-f8e3fdd9be81",
             "type": "Feature",
             "properties": {"title": "Clothworkers' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08109,
+                    51.51144
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/88e48f5e-2f0b-44a9-a9a8-11d5c2bee7bc",
             "type": "Feature",
             "properties": {"title": "Cooks' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/3155ce6d-edb8-4f03-b9e5-a4de433110bf",
             "type": "Feature",
             "properties": {"title": "Coopers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/e4f21c23-dc5d-41b6-b723-5be95daa8dc1",
             "type": "Feature",
             "properties": {"title": "Cordwainers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/ea332dc8-92e5-4dde-8a12-fc32c216afaa",
             "type": "Feature",
             "properties": {"title": "Curriers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/b43f8266-8fb8-4916-9f16-376e8273635c",
             "type": "Feature",
             "properties": {"title": "Cutlers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/89dd022d-9b21-4695-a249-042af69d2129",
             "type": "Feature",
             "properties": {"title": "Drapers' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08654,
+                    51.51506
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7710ae7d-9669-4ab5-94fc-828d2589dc39",
             "type": "Feature",
             "properties": {"title": "Dyers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/06b7a266-0d5e-4a85-ac50-a9822dade367",
             "type": "Feature",
             "properties": {"title": "Embroiderers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/ad2e5933-d971-4e27-a373-c700b6544910",
             "type": "Feature",
             "properties": {"title": "Fishmongers' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08764,
+                    51.50939
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/f8fb9544-af0b-49f6-aa4e-9474d3df99fb",
             "type": "Feature",
             "properties": {"title": "Fletchers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7e737064-6126-4d17-9427-62d79540d335",
             "type": "Feature",
             "properties": {"title": "Founders' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/3cf2cf2e-b0b2-466d-9861-38b87baef4e5",
             "type": "Feature",
             "properties": {"title": "Fullers' Hall (Billiter Lane)"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/47aaebe8-6f05-443d-8cb7-da34aecd8d2f",
             "type": "Feature",
             "properties": {"title": "Fullers' Hall (Candlewick Street)"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/33a2fd2a-a5d1-45b9-8097-66b5a304d0d2",
             "type": "Feature",
             "properties": {"title": "Girdlers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/05803233-8311-4a1a-8f57-4be5f8ce5872",
             "type": "Feature",
             "properties": {"title": "Glaziers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7a72e18c-4fff-4ceb-8f08-e6d9d65399e5",
             "type": "Feature",
             "properties": {"title": "Goldsmiths' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0957,
+                    51.5158
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/ddf30495-4ba0-4efc-9bc0-469abf94eba3",
             "type": "Feature",
             "properties": {"title": "Haberdashers' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09525,
+                    51.516129
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/fcf888ba-b6ca-4027-8cc3-ddf9d53bad8a",
             "type": "Feature",
             "properties": {"title": "Ironmongers' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080591,
+                    51.512486
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/86c07e9e-cc04-4307-8e07-e3b5a9b6eef2",
             "type": "Feature",
             "properties": {"title": "Joiners' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/61cb37f6-6f61-45fe-b0b7-3c2480ab8e5a",
             "type": "Feature",
             "properties": {"title": "Leathersellers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/3cd06f38-947d-461d-a7d8-a459547ee84d",
             "type": "Feature",
             "properties": {"title": "Masons' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/f3e6ca9e-ce11-4edb-aa0c-8c2e43f28323",
             "type": "Feature",
             "properties": {"title": "Painter Stainers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7b5f6774-0e7d-442e-bd11-e914adc89929",
             "type": "Feature",
             "properties": {"title": "Pewterers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/0892f8da-29e8-4697-ba6e-6e220efc7c58",
             "type": "Feature",
             "properties": {"title": "Pinners' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/870edbff-0645-4433-86c9-bfd51df50e05",
             "type": "Feature",
             "properties": {"title": "Plasterers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/280d3259-b3ef-4a83-83dd-76844fc30a26",
             "type": "Feature",
             "properties": {"title": "Plumbers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7b59285e-00e2-4563-8843-96d35550df28",
             "type": "Feature",
             "properties": {"title": "Saddlers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7cb682b5-ea21-4a0e-b5b7-476bcfb8eed5",
             "type": "Feature",
             "properties": {"title": "Salters' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094818,
+                    51.512937
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/bd063c92-1f0c-42f2-a9f9-2d378b2fbd7b",
             "type": "Feature",
             "properties": {"title": "Skinners' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09119,
+                    51.51111
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "reed_82ed2744-d245-46e8-a643-f0c55f40f7a1",
@@ -8570,25 +8967,55 @@
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/fc345a6e-89bd-4b5f-9a4e-c526b73d4581",
             "type": "Feature",
             "properties": {"title": "Tallow Chandlers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/a67050e6-330c-4b65-a51b-b37729a568d4",
             "type": "Feature",
             "properties": {"title": "Vintners' Hall"},
-            "geometry": null
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09406,
+                    51.51015
+                ]
+            },
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/7d06723c-98b9-464a-83d1-989974925628",
             "type": "Feature",
             "properties": {"title": "Wax Chandlers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         },
         {
             "@id": "https://w3id.org/London%20Places%20for%20LINCS%20(from%20RLO%20and%20MoEML)%20-%20Reconcilation/6b895b90-4764-44f0-895b-9eb4fe647f44",
             "type": "Feature",
             "properties": {"title": "Weavers' Hall"},
-            "geometry": null
+            "geometry": null,
+            "types": [
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
+            ]
         }
     ],
     "indexing": {
