@@ -13,7 +13,7 @@
     "format": "LINKED_PLACES",
     "src": "./data/London.json", 
     "attribution": "London wards" 
-  },
+  }
   ],
   "facets": [
     "type"
