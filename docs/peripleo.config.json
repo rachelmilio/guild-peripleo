@@ -9,6 +9,13 @@
       "attribution": "REED London"
     }
   ],
+  "layers": [
+  { 
+    "name": "Wards", 
+    "type": "geojson",
+    "src": "./data/London.json", 
+    "color": "#5555ff" 
+  },
   "facets": [
     "type"
   ],
