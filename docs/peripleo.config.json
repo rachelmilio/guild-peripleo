@@ -5,7 +5,7 @@
     {
       "name": "REED London Places",
       "format": "LINKED_PLACES",
-      "src": "./data/London.json",
+      "src": "./data/REED places.json",
       "attribution": "REED London"
     }
   ],
