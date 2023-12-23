@@ -12,7 +12,7 @@
     "name": "Wards", 
     "format": "LINKED_PLACES",
     "src": "./data/London.json", 
-    "attribution": "REED London" 
+    "attribution": "London wards" 
   },
   ],
   "facets": [
