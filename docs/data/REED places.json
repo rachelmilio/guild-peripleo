@@ -7993,7 +7993,7 @@
                 "country": "Great Britain"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "Point",
                 "coordinates": [
                     -0.097222,
                     51.5175
