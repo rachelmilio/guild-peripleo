@@ -66,6 +66,12 @@
                     "label": "arena",
                     "identifier": "http://id.lincsproject.ca/eml/Arena"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_Bear_Garden%2C_Bankside%2C_London.png",
+                    "title": "Bear Garden, Visscher Map, 1616"
+                }
             ]
         },
         {
@@ -92,12 +98,12 @@
             "depictions": [
                 {
                     "@id": "https://www.british-history.ac.uk/sites/default/files/publications/pubid-749/images/fig1.gif",
-                    "title": "The tiltyard, Faithorne and Newcourt's Map"
+                    "title": "The Tiltyard, Faithorne and Newcourt's Map"
                 }
             ],
             "links": [
                 {
-                    "type": "REED Record",
+                    "type": "primaryTopicOf",
                     "identifier": "https://cwrc.ca/fr/islandora/object/reed%3A14356614-8c1e-458d-8db1-f9c450e028f0"
                 }
             ]
@@ -134,20 +140,11 @@
                     "label": "body of water",
                     "identifier": "http://id.lincsproject.ca/eml/BodyOfWater"
                 }
-            ]
-        },
-        {
-            "@id": "reed_7fe34a9c-03f9-4ae2-98ab-5523901e1d64",
-            "type": "Feature",
-            "properties": {
-                "title": "Fleet Street Conduit",
-                "country": "Great Britain"
-            },
-            "geometry": null,
-            "types": [
+            ],
+            "depictions": [
                 {
-                    "label": "body of water",
-                    "identifier": "http://id.lincsproject.ca/eml/BodyOfWater"
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/2/27/Samuel_Scott_001.jpg",
+                    "title": "River Fleet, Samuel Scott, 1750"
                 }
             ]
         },
@@ -214,6 +211,12 @@
                     "label": "body of water",
                     "identifier": "http://id.lincsproject.ca/eml/BodyOfWater"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://i.guim.co.uk/img/media/d113bbc51977ebd244a074c278e994030929bd11/808_211_1916_1150/master/1916.jpg?width=620&dpr=1&s=none",
+                    "title": "Cheapside Cross with Great Conduit to the right"
+                }
             ]
         },
         {
@@ -234,6 +237,12 @@
                 {
                     "label": "body of water",
                     "identifier": "http://id.lincsproject.ca/eml/BodyOfWater"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://i0.wp.com/shakespeareillustration.org/wp-content/uploads/2016/07/ckwt20a.jpg?fit=850%2C916&ssl=1",
+                    "title": "Little Conduit in Cheapside, 1638"
                 }
             ]
         },
@@ -288,6 +297,12 @@
                 {
                     "label": "bridge",
                     "identifier": "http://id.lincsproject.ca/eml/Bridge"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/London_Bridge_%281616%29_by_Claes_Van_Visscher.jpg/320px-London_Bridge_%281616%29_by_Claes_Van_Visscher.jpg",
+                    "title": "London Bridge, Visscher, 1616"
                 }
             ]
         },
@@ -345,6 +360,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Southeastern_View_of_All_Hallows-by-the-Tower.jpg/220px-Southeastern_View_of_All_Hallows-by-the-Tower.jpg",
+                    "title": "All Hallows Barking, 2020"
+                }
             ]
         },
         {
@@ -366,6 +387,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hallows_bread_godwin.jpg/220px-Hallows_bread_godwin.jpg",
+                    "title": "All Hallows Bread Street"
                 }
             ]
         },
@@ -389,6 +416,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hallows_lombard_godwin.jpg/220px-Hallows_lombard_godwin.jpg",
+                    "title": "All Hallows Gracechurch Street"
+                }
             ]
         },
         {
@@ -410,6 +443,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Russia_Row_and_Trump_Street_1910s_Ordnance_Survey_map.jpg/220px-Russia_Row_and_Trump_Street_1910s_Ordnance_Survey_map.jpg",
+                    "title": "All Hallows Honey Lane location on 1916 Survey Map"
                 }
             ]
         },
@@ -433,6 +472,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/All_Hallowes-on-the-Wall%2C_London_Wall%2C_London_EC2_-_geograph.org.uk_-_1706663.jpg/220px-All_Hallowes-on-the-Wall%2C_London_Wall%2C_London_EC2_-_geograph.org.uk_-_1706663.jpg",
+                    "title": "All Hallows London Wall"
+                }
             ]
         },
         {
@@ -454,6 +499,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AllHallowsStaining_Tower.JPG/220px-AllHallowsStaining_Tower.JPG",
+                    "title": "All Hallows Staining"
                 }
             ]
         },
@@ -477,6 +528,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hallows_great_shepherd.jpg/220px-Hallows_great_shepherd.jpg",
+                    "title": "All Hallows the Great"
+                }
             ]
         },
         {
@@ -498,6 +555,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Site_of_All_Hallows_the_Less_1966.jpg/220px-Site_of_All_Hallows_the_Less_1966.jpg",
+                    "title": "Commemorative plaque at the site of All Hallows the Less"
                 }
             ]
         },
@@ -521,6 +584,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Christ_Church_London.jpg/220px-Christ_Church_London.jpg",
+                    "title": "Christ Church Newgate Street, 1845"
+                }
             ]
         },
         {
@@ -542,6 +611,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Holy_Trinity_Minories_west_front.png/220px-Holy_Trinity_Minories_west_front.png",
+                    "title": "Church of Holy Trinity Minories, 1907"
                 }
             ]
         },
@@ -565,6 +640,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mansionhouse300.jpg",
+                    "title": "Former site of Holy Trinity the Less"
+                }
             ]
         },
         {
@@ -586,6 +667,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Savoy_Hospital%2C_off_the_Strand%3B_ruins_of_the_walls._Etching._Wellcome_V0013828.jpg/220px-Savoy_Hospital%2C_off_the_Strand%3B_ruins_of_the_walls._Etching._Wellcome_V0013828.jpg",
+                    "title": "Queen's Chapel of the Savoy (bottom), 1753"
                 }
             ]
         },
@@ -609,6 +696,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/St_Albans_London.JPG/220px-St_Albans_London.JPG",
+                    "title": "Tower of St. Alban's"
+                }
             ]
         },
         {
@@ -630,6 +723,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ruins_of_St_Alphage_London_Wall_-_2023-04-16.jpg/270px-Ruins_of_St_Alphage_London_Wall_-_2023-04-16.jpg",
+                    "title": "Remains of St Alphage London Wall"
                 }
             ]
         },
@@ -653,6 +752,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/StAndrewWardrobeChurch.jpg/220px-StAndrewWardrobeChurch.jpg",
+                    "title": "St Andrew-by-the-Wardrobe"
+                }
             ]
         },
         {
@@ -674,6 +779,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -697,6 +808,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/16_Eastcheap_site_of_St_Andrew_Hubbard.JPG/220px-16_Eastcheap_site_of_St_Andrew_Hubbard.JPG",
+                    "title": "Current Site of St Andrew Hubbard"
+                }
             ]
         },
         {
@@ -718,6 +835,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Church_of_St_Andrew_Undershaft_20130324_012.JPG/220px-Church_of_St_Andrew_Undershaft_20130324_012.JPG",
+                    "title": "St Andrew Undershaft, 2013"
                 }
             ]
         },
@@ -741,6 +864,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/d/da/St_Ann_Churchyard_City_of_London.JPG",
+                    "title": "St Ann Blackfriars Courtyard"
+                }
             ]
         },
         {
@@ -762,6 +891,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St_Ann_%26_St_Agnes_Church.jpg/220px-St_Ann_%26_St_Agnes_Church.jpg",
+                    "title": "St Anne and St Agnes"
                 }
             ]
         },
@@ -785,6 +920,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/St_Antholin_Cruse.jpg/220px-St_Antholin_Cruse.jpg",
+                    "title": "St Antholin's, 1830"
+                }
             ]
         },
         {
@@ -806,6 +947,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -829,6 +976,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
+                }
             ]
         },
         {
@@ -850,6 +1003,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -873,6 +1032,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
+                }
             ]
         },
         {
@@ -894,6 +1059,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -917,6 +1088,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
+                }
             ]
         },
         {
@@ -938,6 +1115,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -961,6 +1144,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
+                }
             ]
         },
         {
@@ -982,6 +1171,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -1005,6 +1200,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
+                }
             ]
         },
         {
@@ -1027,6 +1228,12 @@
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
                 }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
+                }
             ]
         },
         {
@@ -1048,6 +1255,12 @@
                 {
                     "label": "church",
                     "identifier": "http://id.lincsproject.ca/eml/Church"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St_Andrew_Holborn_%28church%29_20130413_029.jpg/220px-St_Andrew_Holborn_%28church%29_20130413_029.jpg",
+                    "title": "St Andrew Holborn"
                 }
             ]
         },
@@ -3559,8 +3772,10 @@
                 ]
             },
             "types": [
-                {"label": "hall",
-                    "identifier": "http://id.lincsproject.ca/eml/Hall"}
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
             ]
         },
         {
@@ -3579,8 +3794,10 @@
                 ]
             },
             "types": [
-                {"label": "hall",
-                    "identifier": "http://id.lincsproject.ca/eml/Hall"}
+                {
+                    "label": "hall",
+                    "identifier": "http://id.lincsproject.ca/eml/Hall"
+                }
             ]
         },
         {
@@ -3599,8 +3816,10 @@
                 ]
             },
             "types": [
-                {"label": "hill",
-                    "identifier": "http://id.lincsproject.ca/eml/Hill"}
+                {
+                    "label": "hill",
+                    "identifier": "http://id.lincsproject.ca/eml/Hill"
+                }
             ]
         },
         {
@@ -3613,8 +3832,10 @@
             },
             "geometry": null,
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3633,8 +3854,10 @@
                 ]
             },
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3653,8 +3876,10 @@
                 ]
             },
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3673,8 +3898,10 @@
                 ]
             },
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3693,8 +3920,10 @@
                 ]
             },
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3707,8 +3936,10 @@
             },
             "geometry": null,
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3727,8 +3958,10 @@
                 ]
             },
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3747,8 +3980,10 @@
                 ]
             },
             "types": [
-                {"label": "hospital",
-                    "identifier": "http://id.lincsproject.ca/eml/Hospital"}
+                {
+                    "label": "hospital",
+                    "identifier": "http://id.lincsproject.ca/eml/Hospital"
+                }
             ]
         },
         {
@@ -3767,8 +4002,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3787,8 +4024,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3807,8 +4046,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3827,8 +4068,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3847,8 +4090,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3867,8 +4112,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3887,8 +4134,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3907,8 +4156,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3927,8 +4178,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3947,8 +4200,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3967,8 +4222,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -3987,8 +4244,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -4007,8 +4266,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -4027,8 +4288,10 @@
                 ]
             },
             "types": [
-                {"label": "inn of court",
-                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"}
+                {
+                    "label": "inn of court",
+                    "identifier": "http://id.lincsproject.ca/eml/InnOfCourt"
+                }
             ]
         },
         {
@@ -4047,8 +4310,10 @@
                 ]
             },
             "types": [
-                {"label": "manor",
-                    "identifier": "http://id.lincsproject.ca/eml/Manor"}
+                {
+                    "label": "manor",
+                    "identifier": "http://id.lincsproject.ca/eml/Manor"
+                }
             ]
         },
         {
@@ -4061,8 +4326,10 @@
             },
             "geometry": null,
             "types": [
-                {"label": "monument",
-                    "identifier": "http://id.lincsproject.ca/eml/Monument"}
+                {
+                    "label": "monument",
+                    "identifier": "http://id.lincsproject.ca/eml/Monument"
+                }
             ]
         },
         {
@@ -4071,8 +4338,10 @@
             "properties": {"title": "Standard (Cheapside)"},
             "geometry": null,
             "types": [
-                {"label": "monument",
-                    "identifier": "http://id.lincsproject.ca/eml/Monument"}
+                {
+                    "label": "monument",
+                    "identifier": "http://id.lincsproject.ca/eml/Monument"
+                }
             ]
         },
         {
@@ -4091,8 +4360,10 @@
                 ]
             },
             "types": [
-                {"label": "neighbourhood",
-                    "identifier": "http://id.lincsproject.ca/eml/Neighbourhood"}
+                {
+                    "label": "neighbourhood",
+                    "identifier": "http://id.lincsproject.ca/eml/Neighbourhood"
+                }
             ]
         },
         {
@@ -4111,8 +4382,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4131,8 +4404,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4151,8 +4426,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4171,8 +4448,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4191,8 +4470,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4211,8 +4492,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4231,8 +4514,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4251,8 +4536,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4271,8 +4558,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4291,8 +4580,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4311,8 +4602,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4331,8 +4624,10 @@
                 ]
             },
             "types": [
-                {"label": "outdoor space",
-                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"}
+                {
+                    "label": "outdoor space",
+                    "identifier": "http://id.lincsproject.ca/eml/OutdoorSpace"
+                }
             ]
         },
         {
@@ -4351,8 +4646,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4371,8 +4668,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4391,8 +4690,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4411,8 +4712,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4431,8 +4734,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4451,8 +4756,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4471,8 +4778,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4491,8 +4800,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4511,8 +4822,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4531,8 +4844,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4551,8 +4866,10 @@
                 ]
             },
             "types": [
-                {"label": "palace",
-                    "identifier": "http://id.lincsproject.ca/eml/Palace"}
+                {
+                    "label": "palace",
+                    "identifier": "http://id.lincsproject.ca/eml/Palace"
+                }
             ]
         },
         {
@@ -4571,8 +4888,10 @@
                 ]
             },
             "types": [
-                {"label": "parish",
-                    "identifier": "http://id.lincsproject.ca/eml/Parish"}
+                {
+                    "label": "parish",
+                    "identifier": "http://id.lincsproject.ca/eml/Parish"
+                }
             ]
         },
         {
@@ -4591,8 +4910,10 @@
                 ]
             },
             "types": [
-                {"label": "parish",
-                    "identifier": "http://id.lincsproject.ca/eml/Parish"}
+                {
+                    "label": "parish",
+                    "identifier": "http://id.lincsproject.ca/eml/Parish"
+                }
             ]
         },
         {
@@ -4601,8 +4922,10 @@
             "properties": {"title": "St Giles in the Fields"},
             "geometry": null,
             "types": [
-                {"label": "parish",
-                    "identifier": "http://id.lincsproject.ca/eml/Parish"}
+                {
+                    "label": "parish",
+                    "identifier": "http://id.lincsproject.ca/eml/Parish"
+                }
             ]
         },
         {
@@ -4621,8 +4944,10 @@
                 ]
             },
             "types": [
-                {"label": "parish",
-                    "identifier": "http://id.lincsproject.ca/eml/Parish"}
+                {
+                    "label": "parish",
+                    "identifier": "http://id.lincsproject.ca/eml/Parish"
+                }
             ]
         },
         {
@@ -4641,8 +4966,10 @@
                 ]
             },
             "types": [
-                {"label": "parish",
-                    "identifier": "http://id.lincsproject.ca/eml/Parish"}
+                {
+                    "label": "parish",
+                    "identifier": "http://id.lincsproject.ca/eml/Parish"
+                }
             ]
         },
         {
@@ -4661,8 +4988,10 @@
                 ]
             },
             "types": [
-                {"label": "place of punishment",
-                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"}
+                {
+                    "label": "place of punishment",
+                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"
+                }
             ]
         },
         {
@@ -4681,8 +5010,10 @@
                 ]
             },
             "types": [
-                {"label": "place of punishment",
-                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"}
+                {
+                    "label": "place of punishment",
+                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"
+                }
             ]
         },
         {
@@ -4701,8 +5032,10 @@
                 ]
             },
             "types": [
-                {"label": "place of punishment",
-                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"}
+                {
+                    "label": "place of punishment",
+                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"
+                }
             ]
         },
         {
@@ -4721,8 +5054,10 @@
                 ]
             },
             "types": [
-                {"label": "place of punishment",
-                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"}
+                {
+                    "label": "place of punishment",
+                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"
+                }
             ]
         },
         {
@@ -4741,8 +5076,10 @@
                 ]
             },
             "types": [
-                {"label": "place of punishment",
-                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"}
+                {
+                    "label": "place of punishment",
+                    "identifier": "http://id.lincsproject.ca/eml/PlaceOfPunishment"
+                }
             ]
         },
         {
@@ -4761,8 +5098,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4781,8 +5120,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4801,8 +5142,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4821,8 +5164,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4841,8 +5186,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4861,8 +5208,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4881,8 +5230,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4901,8 +5252,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4921,8 +5274,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4941,8 +5296,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4961,8 +5318,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -4981,8 +5340,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -5001,8 +5362,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -5021,8 +5384,10 @@
                 ]
             },
             "types": [
-                {"label": "playhouse",
-                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"}
+                {
+                    "label": "playhouse",
+                    "identifier": "http://id.lincsproject.ca/eml/Playhouse"
+                }
             ]
         },
         {
@@ -5041,8 +5406,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5061,8 +5428,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5081,8 +5450,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5101,8 +5472,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5121,8 +5494,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5141,8 +5516,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5161,8 +5538,10 @@
                 ]
             },
             "types": [
-                {"label": "prison",
-                    "identifier": "http://id.lincsproject.ca/eml/Prison"}
+                {
+                    "label": "prison",
+                    "identifier": "http://id.lincsproject.ca/eml/Prison"
+                }
             ]
         },
         {
@@ -5181,8 +5560,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5201,8 +5582,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5221,8 +5604,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5241,8 +5626,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5261,8 +5648,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5281,8 +5670,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5301,8 +5692,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5321,8 +5714,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5341,8 +5736,10 @@
                 ]
             },
             "types": [
-                {"label": "religious house",
-                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"}
+                {
+                    "label": "religious house",
+                    "identifier": "http://id.lincsproject.ca/eml/ReligiousHouse"
+                }
             ]
         },
         {
@@ -5361,8 +5758,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5381,8 +5780,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5401,8 +5802,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5421,8 +5824,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5441,8 +5846,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5461,8 +5868,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5481,8 +5890,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5501,8 +5912,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5521,8 +5934,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5541,8 +5956,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5561,8 +5978,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5581,8 +6000,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5601,8 +6022,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5621,8 +6044,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5641,8 +6066,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5661,8 +6088,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5681,8 +6110,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5701,8 +6132,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5721,8 +6154,10 @@
                 ]
             },
             "types": [
-                {"label": "residence",
-                    "identifier": "http://id.lincsproject.ca/eml/Residence"}
+                {
+                    "label": "residence",
+                    "identifier": "http://id.lincsproject.ca/eml/Residence"
+                }
             ]
         },
         {
@@ -5731,8 +6166,10 @@
             "properties": {"title": "Privy Stairs"},
             "geometry": null,
             "types": [
-                {"label": "riverside feature",
-                    "identifier": "http://id.lincsproject.ca/eml/RiversideFeature"}
+                {
+                    "label": "riverside feature",
+                    "identifier": "http://id.lincsproject.ca/eml/RiversideFeature"
+                }
             ]
         },
         {
@@ -5751,8 +6188,10 @@
                 ]
             },
             "types": [
-                {"label": "school",
-                    "identifier": "http://id.lincsproject.ca/eml/School"}
+                {
+                    "label": "school",
+                    "identifier": "http://id.lincsproject.ca/eml/School"
+                }
             ]
         },
         {
@@ -5771,8 +6210,10 @@
                 ]
             },
             "types": [
-                {"label": "school",
-                    "identifier": "http://id.lincsproject.ca/eml/School"}
+                {
+                    "label": "school",
+                    "identifier": "http://id.lincsproject.ca/eml/School"
+                }
             ]
         },
         {
@@ -5791,8 +6232,10 @@
                 ]
             },
             "types": [
-                {"label": "school",
-                    "identifier": "http://id.lincsproject.ca/eml/School"}
+                {
+                    "label": "school",
+                    "identifier": "http://id.lincsproject.ca/eml/School"
+                }
             ]
         },
         {
@@ -5811,8 +6254,10 @@
                 ]
             },
             "types": [
-                {"label": "settlement",
-                    "identifier": "http://id.lincsproject.ca/eml/Settlement"}
+                {
+                    "label": "settlement",
+                    "identifier": "http://id.lincsproject.ca/eml/Settlement"
+                }
             ]
         },
         {
@@ -5831,8 +6276,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5851,8 +6298,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5871,8 +6320,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5891,8 +6342,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5911,8 +6364,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5931,8 +6386,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5951,8 +6408,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5971,8 +6430,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -5991,8 +6452,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6011,8 +6474,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6031,8 +6496,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6051,8 +6518,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6071,8 +6540,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6091,8 +6562,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6111,8 +6584,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6131,8 +6606,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6151,8 +6628,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6171,8 +6650,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6191,8 +6672,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6211,8 +6694,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6231,8 +6716,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6251,8 +6738,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6271,8 +6760,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6291,8 +6782,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6311,8 +6804,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6331,8 +6826,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6351,8 +6848,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6371,8 +6870,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6391,8 +6892,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6411,8 +6914,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6430,8 +6935,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6450,8 +6957,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6470,8 +6979,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6490,8 +7001,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6510,8 +7023,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6530,8 +7045,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6544,8 +7061,10 @@
             },
             "geometry": null,
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6564,8 +7083,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6584,8 +7105,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6604,8 +7127,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6624,8 +7149,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6644,8 +7171,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6664,8 +7193,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6684,8 +7215,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6704,8 +7237,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6724,8 +7259,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6744,8 +7281,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6764,8 +7303,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6784,8 +7325,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6804,8 +7347,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6818,8 +7363,10 @@
             },
             "geometry": null,
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6838,8 +7385,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6852,8 +7401,10 @@
             },
             "geometry": null,
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6872,8 +7423,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6892,8 +7445,10 @@
                 ]
             },
             "types": [
-                {"label": "street",
-                    "identifier": "http://id.lincsproject.ca/eml/Street"}
+                {
+                    "label": "street",
+                    "identifier": "http://id.lincsproject.ca/eml/Street"
+                }
             ]
         },
         {
@@ -6912,8 +7467,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -6932,8 +7489,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -6952,8 +7511,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -6972,8 +7533,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -6992,8 +7555,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7012,8 +7577,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7032,8 +7599,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7052,8 +7621,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7072,8 +7643,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7092,8 +7665,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7112,8 +7687,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7132,8 +7709,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7152,8 +7731,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7172,8 +7753,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7192,8 +7775,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7212,8 +7797,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7232,8 +7819,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7252,8 +7841,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7272,8 +7863,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7291,8 +7884,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7311,8 +7906,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7331,8 +7928,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7351,8 +7950,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7371,8 +7972,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7391,8 +7994,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7411,8 +8016,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7421,8 +8028,10 @@
             "properties": {"title": "St Dunstan's Tavern"},
             "geometry": null,
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7441,8 +8050,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7461,8 +8072,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7481,8 +8094,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7501,8 +8116,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7521,8 +8138,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7541,8 +8160,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7561,8 +8182,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7581,8 +8204,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7601,8 +8226,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7621,8 +8248,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7641,8 +8270,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7661,8 +8292,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7681,8 +8314,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7701,8 +8336,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7721,8 +8358,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7741,8 +8380,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7761,8 +8402,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7781,8 +8424,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7801,8 +8446,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7821,8 +8468,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7841,8 +8490,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7861,8 +8512,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7881,8 +8534,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7901,8 +8556,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7921,8 +8578,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7941,8 +8600,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7961,8 +8622,10 @@
                 ]
             },
             "types": [
-                {"label": "victualling house",
-                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"}
+                {
+                    "label": "victualling house",
+                    "identifier": "http://id.lincsproject.ca/eml/VictuallingHouse"
+                }
             ]
         },
         {
@@ -7981,8 +8644,10 @@
                 ]
             },
             "types": [
-                {"label": "wall",
-                    "identifier": "http://id.lincsproject.ca/eml/Wall"}
+                {
+                    "label": "wall",
+                    "identifier": "http://id.lincsproject.ca/eml/Wall"
+                }
             ]
         },
         {
@@ -8000,8 +8665,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8019,8 +8686,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8038,8 +8707,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8058,8 +8729,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8077,8 +8750,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8096,8 +8771,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8116,8 +8793,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8135,8 +8814,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8154,8 +8835,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8174,8 +8857,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8194,8 +8879,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8213,8 +8900,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8232,8 +8921,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8251,8 +8942,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8270,8 +8963,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8289,8 +8984,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8308,8 +9005,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8327,8 +9026,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8346,8 +9047,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8366,8 +9069,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8386,8 +9091,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8405,8 +9112,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8425,8 +9134,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8444,8 +9155,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
@@ -8463,8 +9176,10 @@
                 ]
             },
             "types": [
-                {"label": "ward",
-                    "identifier": "http://id.lincsproject.ca/eml/Ward"}
+                {
+                    "label": "ward",
+                    "identifier": "http://id.lincsproject.ca/eml/Ward"
+                }
             ]
         },
         {
