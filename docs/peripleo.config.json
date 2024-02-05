@@ -1,4 +1,6 @@
 {
+  "disableMyLocation": true
+  "welcome_message": "welcome.md"
   "initial_bounds": [-0.104361, 51.507208, -0.070646, 51.517273],
   "map_style": "./map-style-OSM.json",
   "data": [
